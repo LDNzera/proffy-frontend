@@ -1,0 +1,2 @@
+# proffy-frontend
+Frontend application
