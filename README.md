@@ -18,11 +18,6 @@
    <center><img  src="src/assets/images/landing.svg"></img></center>
     
   </div>
- 
-## Preview
-
-<center><img  src="src/assets/images/preview/Screenshot_1.png"></img></center>
-<center><img  src="src/assets/images/preview/Screenshot_2.png"></img></center>
 
 ## Available Scripts
 
